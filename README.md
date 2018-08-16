@@ -1,3 +1,15 @@
+
+edits by Jeremy Ellis
+aug 16th, 2018
+
+webpage at https://hpssjellis.github.io/tfjs-cifar10/
+
+
+
+
+
+
+
 English | [中文](./README_cn.md)
 
 
